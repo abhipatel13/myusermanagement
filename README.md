@@ -6,17 +6,17 @@ CRUD APP/USER MANAGEMENT/EMPLOYEE MANAGEMENT
 Live : https://myusermanagementapp.herokuapp.com/
 Technology used :
 
-NODE JS
-EXPRESS
-MONGO DB
-BOOTSTRAP
+NODE JS ,
+EXPRESS , 
+MONGO DB , 
+BOOTSTRAP , 
 
 The different part or module of this project is as follows:
 
-ADD Data / Insert Data
-Update Inserted Data
-Search Data
-Delete Data
+ADD Data / Insert Data ,
+Update Inserted Data ,
+Search Data ,
+Delete Data ,
 Database(MongoDB)
 
 ![1](https://user-images.githubusercontent.com/70934221/176419846-d5eabf65-a61e-4211-bed3-f4eb3f6baa26.png)
